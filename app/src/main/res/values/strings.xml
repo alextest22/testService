@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">testServices</string>
+    <string name="start">Активировать</string>
+    <string name="stop">Деактивировать</string>
+    <string name="access">Permission</string>
+    <string name="access_description">Previously, you prevented the application from using this permission. Do you want to change the settings?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="name_prefix">testSound%d</string>
+
+
+</resources>
